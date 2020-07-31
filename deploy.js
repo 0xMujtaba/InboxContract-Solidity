@@ -4,7 +4,7 @@ const { interface, bytecode } = require('./compile');
 const { interfaces } = require('mocha');
 
 const provider = new HDWalletProvider(
-    'alert ginger outer afraid inch idea float arrest text purpose gauge patient',
+    'PASTE 12 WORD WALLET MNEMONIC HERE',
     'PASTE API KEY HERE'
 );
 
