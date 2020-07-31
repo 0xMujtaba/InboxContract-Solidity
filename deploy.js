@@ -5,7 +5,7 @@ const { interfaces } = require('mocha');
 
 const provider = new HDWalletProvider(
     'alert ginger outer afraid inch idea float arrest text purpose gauge patient',
-    'https://rinkeby.infura.io/v3/ea587c4accc94939a8f5b5155e8e6205'
+    'PASTE API KEY HERE'
 );
 
 const web3 = new Web3(provider);
